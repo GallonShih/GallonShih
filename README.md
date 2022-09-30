@@ -2,6 +2,7 @@
 
 #### 🔭 Currently, I am working as a data scientist, mainly responsable for GIS analysis, data pipeline, ML model, etc.
 #### 😄 And I am a data lover, especially network data and GIS data, because these data can show more detail of out complicated world.
+#### 🕸️ It's my FB blog: [BlackHead資料科學與生活](https://www.facebook.com/BlackHeadinDataScience). There are articles with data analysis, technical share, book review, etc. If you feel interested, follow the FB page.
 
 #### Here are some projects ongoing:
 |Repositories |Description |Collaborators |
