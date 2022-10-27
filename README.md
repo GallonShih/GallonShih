@@ -7,7 +7,7 @@
 #### Here are some projects ongoing:
 |Repositories |Description |Collaborators |
 |-------------|------------|--------------|
-|[shark](https://github.com/GallonShih/shark) |Airflow Data Pipeline |[Yulun](https://github.com/Yulun5566) |
+|[shark](https://github.com/GallonShih/shark) |Airflow Data Pipeline |[Yulun](https://github.com/Yulun5566) <br>[Jiahao](https://github.com/jiahao831222)|
 |[fastapi-geomap](https://github.com/GallonShih/fastapi-geomap)  |Website with Geodata | |
 
 #### Here are some projects finished:
